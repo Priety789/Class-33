@@ -1,2 +1,2 @@
-# Class-33
-The final version of the Angry Bird Game. 
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
